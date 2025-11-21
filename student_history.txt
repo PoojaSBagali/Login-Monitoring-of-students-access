@@ -1,0 +1,13 @@
+21-11-2025 09:39:39 | ID:101 | Site:exir | UNKNOWN SITE
+Student: A (ID:101)
+Login #1 | Time: 21-11-2025 09:51:48 | Site: eduportal.com | Result: ALLOWED
+
+Student: A (ID:101)
+Login #2 | Time: 21-11-2025 09:52:06 | Site: gaming.com | Result: BLOCKED (Warning 1)
+
+Student: A (ID:101)
+Login #1 | Time: 21-11-2025 10:00:42 | Site: facebook.com | Result: BLOCKED (Warning 1)
+
+Student: B (ID:102)
+Login #2 | Time: 21-11-2025 10:01:11 | Site: eduportal.com | Result: ALLOWED
+

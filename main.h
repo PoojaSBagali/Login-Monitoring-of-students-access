@@ -3,32 +3,49 @@
 
 #include <stdio.h>
 #include <string.h>
+#include <time.h>
 
-#define MAX_STUDENTS 3
-#define MAX_SITES 10
-
+/* ---------------- ENUM STATUS ---------------- */
 enum Status { ACTIVE, BLOCKED };
 
+/* ---------------- STUDENT STRUCT ---------------- */
 struct Student {
     int id;
     char name[30];
     int warnings;
+    int loginCount;
     enum Status status;
+    char lastLogin[40];
 };
 
-extern struct Student students[MAX_STUDENTS];
-extern char allowed[MAX_SITES][30];
-extern char blocked[MAX_SITES][30];
+/* --- GLOBALS DECLARED AS extern --- */
+extern struct Student students[3];
+
+extern char allowed[10][30];
+extern char blocked[10][30];
 extern int allowedCount, blockedCount;
+
 extern const char adminUser[];
 extern const char adminPass[];
 
+extern const char *STUDENT_FILE;
+extern const char *HISTORY_FILE;
+
+/* ---------------- FUNCTION DECLARATIONS ---------------- */
+void clearInputBuffer();
+void updateLoginTime(int index);
+void saveStudents();
+void loadStudents();
+
 void studentLogin();
 void adminLogin();
+
+/* Admin functions */
 void viewStudents();
 void resetWarnings();
 void addAllowedSite();
 void addBlockedSite();
 void viewSites();
+void viewHistory();
 
 #endif
