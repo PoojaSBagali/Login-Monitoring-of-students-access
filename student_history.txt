@@ -1,0 +1,92 @@
+[11-12-2025 22:14:07] STUDENT: A (ID:101) logged in successfully
+[11-12-2025 22:14:18] STUDENT: A (ID:101) logged out
+[11-12-2025 22:14:26] ADMIN: Logged in successfully
+[11-12-2025 22:14:29] ADMIN: Failed to add student - All slots full
+[11-12-2025 22:15:04] ADMIN: Updated student A (ID:101) - Status: BLOCKED
+[11-12-2025 22:15:12] ADMIN: Viewed student list
+[11-12-2025 22:15:45] ADMIN: Viewed site lists
+[11-12-2025 22:15:55] ADMIN: Added allowed site - added.com
+[11-12-2025 22:15:58] ADMIN: Viewed site lists
+[11-12-2025 22:16:05] ADMIN: Logged out
+[11-12-2025 22:16:09] === SYSTEM: Program exited ===
+[11-12-2025 22:16:20] STUDENT: A (ID:101) attempted login while BLOCKED
+[11-12-2025 22:16:36] STUDENT: B (ID:102) logged in successfully
+[11-12-2025 22:16:41] STUDENT: B (ID:102) logged out
+[11-12-2025 22:16:43] === SYSTEM: Program exited ===
+[11-12-2025 22:19:01] ADMIN: Logged in successfully
+[11-12-2025 22:19:05] ADMIN: Logged out
+[11-12-2025 22:19:12] === SYSTEM: Program exited ===
+[11-12-2025 22:22:59] ADMIN: Logged in successfully
+[11-12-2025 22:23:02] ADMIN: Logged out
+[11-12-2025 22:23:13] ADMIN: Logged in successfully
+[11-12-2025 22:23:17] ADMIN: Viewed student list
+[11-12-2025 22:24:37] ADMIN: Logged out
+[11-12-2025 22:24:41] ADMIN: Failed login attempt
+[11-12-2025 22:24:48] === SYSTEM: Program exited ===
+[11-12-2025 22:25:07] ADMIN: Failed login attempt
+[11-12-2025 22:25:22] ADMIN: Logged in successfully
+[11-12-2025 22:25:27] ADMIN: Viewed student list
+[11-12-2025 22:25:32] ADMIN: Viewed student list
+[11-12-2025 22:25:34] ADMIN: Viewed student list
+[11-12-2025 22:26:22] ADMIN: Logged out
+[11-12-2025 22:26:24] === SYSTEM: Program exited ===
+[11-12-2025 22:26:41] ADMIN: Logged in successfully
+[11-12-2025 22:26:44] ADMIN: Viewed student list
+[11-12-2025 22:27:18] ADMIN: Logged out
+[11-12-2025 22:27:19] === SYSTEM: Program exited ===
+[11-12-2025 22:27:34] ADMIN: Failed login attempt
+[11-12-2025 22:27:43] ADMIN: Logged in successfully
+[11-12-2025 22:27:45] ADMIN: Viewed student list
+[11-12-2025 22:28:20] ADMIN: Logged out
+[11-12-2025 22:28:21] === SYSTEM: Program exited ===
+[11-12-2025 22:28:37] ADMIN: Logged in successfully
+[11-12-2025 22:28:39] ADMIN: Viewed student list
+[11-12-2025 22:29:12] ADMIN: Logged out
+[11-12-2025 22:29:13] === SYSTEM: Program exited ===
+[11-12-2025 22:29:31] ADMIN: Logged in successfully
+[11-12-2025 22:29:33] ADMIN: Viewed student list
+[11-12-2025 22:32:32] ADMIN: Logged out
+[11-12-2025 22:32:33] === SYSTEM: Program exited ===
+[11-12-2025 22:34:36] STUDENT: A (ID:101) attempted login while BLOCKED
+[11-12-2025 22:34:48] ADMIN: Logged in successfully
+[11-12-2025 22:34:55] ADMIN: Viewed student list
+[11-12-2025 22:35:47] ADMIN: Logged out
+[11-12-2025 22:35:48] === SYSTEM: Program exited ===
+[11-12-2025 22:35:59] ADMIN: Logged in successfully
+[11-12-2025 22:36:01] ADMIN: Viewed student list
+[11-12-2025 22:38:18] ADMIN: Logged out
+[11-12-2025 22:38:19] === SYSTEM: Program exited ===
+[11-12-2025 22:38:33] ADMIN: Logged in successfully
+[11-12-2025 22:38:35] ADMIN: Viewed student list
+[11-12-2025 22:39:05] ADMIN: Logged out
+[11-12-2025 22:39:06] === SYSTEM: Program exited ===
+[11-12-2025 22:39:19] ADMIN: Logged in successfully
+[11-12-2025 22:39:21] ADMIN: Viewed student list
+[11-12-2025 22:40:09] ADMIN: Logged out
+[11-12-2025 22:40:10] === SYSTEM: Program exited ===
+[11-12-2025 22:40:26] ADMIN: Logged in successfully
+[11-12-2025 22:40:28] ADMIN: Viewed student list
+[11-12-2025 22:40:31] ADMIN: Viewed student list
+[11-12-2025 22:40:51] ADMIN: Viewed student list
+[11-12-2025 22:40:54] ADMIN: Logged out
+[11-12-2025 22:40:56] === SYSTEM: Program exited ===
+[12-12-2025 08:45:45] STUDENT: A (ID:101) attempted login while BLOCKED
+[12-12-2025 08:45:53] ADMIN: Logged in successfully
+[12-12-2025 08:46:02] ADMIN: Failed to add student - All slots full
+[12-12-2025 08:46:13] ADMIN: Viewed student list
+[12-12-2025 08:47:13] ADMIN: Logged out
+[12-12-2025 08:47:14] === SYSTEM: Program exited ===
+[12-12-2025 08:47:25] ADMIN: Failed login attempt
+[12-12-2025 08:47:39] ADMIN: Logged in successfully
+[12-12-2025 08:47:41] ADMIN: Viewed student list
+[12-12-2025 08:48:12] ADMIN: Logged out
+[12-12-2025 08:48:12] === SYSTEM: Program exited ===
+[12-12-2025 08:48:21] ADMIN: Logged in successfully
+[12-12-2025 08:48:23] ADMIN: Viewed student list
+[12-12-2025 08:48:42] ADMIN: Logged out
+[12-12-2025 08:48:44] === SYSTEM: Program exited ===
+[12-12-2025 08:48:54] ADMIN: Logged in successfully
+[12-12-2025 08:48:55] ADMIN: Viewed student list
+[12-12-2025 08:49:02] ADMIN: Viewed system history
+[12-12-2025 08:49:22] ADMIN: Logged out
+[12-12-2025 08:49:29] === SYSTEM: Program exited ===
