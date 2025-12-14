@@ -1,0 +1,6 @@
+An login portal system developed in C that manages student access to websites. Students can login securely and access allowed websites or receive warnings for blocked sites. After two warnings, student accounts are automatically locked. Administrators have full control to add, update, and delete students, manage allowed and blocked website lists, and view a complete activity history. All data is automatically saved to files including student information, activity logs, and website lists. The system provides a clean, user-friendly interface with professional table formatting and complete audit trail with timestamps for all activities.
+KEY FEATURES: Student login with website access control, automatic account blocking after two warnings, full student management (add/update/delete), website list management, complete activity logging with timestamps, automatic data persistence.
+TECHNOLOGIES: C Programming Language, File I/O, Standard C Library
+DEFAULT CREDENTIALS: Admin Username: admin | Admin Password: 1234
+STUDENT ACCOUNTS: ID 101 (Name: A), ID 102 (Name: B), ID 103 (Name: C)
+GENERATED FILES: students.txt (student database), student_history.txt (activity audit log), allowed_sites.txt (allowed websites), blocked_sites.txt (blocked websites)
